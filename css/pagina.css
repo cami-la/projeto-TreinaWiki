@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+
+.cabecalho{
+    background-color: #EAECF0;
+    padding: 12px 24px;
+}
+
+.cabecalho-conteudo{
+    margin: 0 auto;
+    max-width: 40em;
+}
+
+.logo-figura{
+    align-items: center;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+.logo-descricao {
+    font-size: 35px;
+    margin: 0 12px;
+}
+
+.rodape {
+    background-color: #EAECF0;
+    padding: 12px;
+    text-align: center;
+}
