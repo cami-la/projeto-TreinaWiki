@@ -1,5 +1,18 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
+}
+
+a {
+    color: #36C;
+
+}
+
+a:not(:hover){
+    text-decoration: none;
 }
 
 .cabecalho{
